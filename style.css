@@ -21,13 +21,13 @@
   z-index: 1000;
   width: 100%;
   height: 100vh;
-  background: #000 url(/assets/prelaoder.gif) no-repeat center center;
+  background: #000 url(assets/prelaoder.gif) no-repeat center center;
   background-size: 350px;
 }
 
 @font-face {
   font-family: "doctor_glitch";
-  src: url(/assets/Doctor\ Glitch.otf);
+  src: url(assets/Doctor\ Glitch.otf);
 }
 body {
   overflow-x: hidden;
