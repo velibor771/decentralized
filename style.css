@@ -27,7 +27,7 @@
 
 @font-face {
   font-family: "doctor_glitch";
-  src: url(assets/Doctor Glitch.otf);
+  src: url(/assets/Doctor Glitch.otf);
 }
 body {
   overflow-x: hidden;
