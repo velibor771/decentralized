@@ -33,7 +33,9 @@ body {
   overflow-x: hidden;
   position: relative;
 }
-
+html {
+  overflow-x: hidden;
+}
 .hover-underline-animation {
   display: inline-block;
   position: relative;
